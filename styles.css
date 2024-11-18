@@ -2,7 +2,7 @@ body {
     background-color: #ffffff;
 }
 
-.gallary {
+.gallery {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -14,7 +14,7 @@ body {
     padding: 20px 10px;
 }
 
-.gallary img {
+.gallery img {
     width: 100%;
     width: 350px;
     height: 300px;
