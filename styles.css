@@ -4,13 +4,7 @@ body {
 }
 
 .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 20px 10px;
+
 }
 
 .gallery img {
@@ -21,7 +15,3 @@ body {
     border-radius: 10px;
 }
 
-.desc {
-    padding: 15px;
-    text-align: center;
-  }
