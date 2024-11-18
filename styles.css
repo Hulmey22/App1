@@ -5,9 +5,7 @@ body {
 img {
     max-width: 100%;
     height: auto;
+    width: 300px
+    height: 600px;
 }
 
-.chasmLakeImg {
-    width: 100px;
-    height: 100px;
-}
