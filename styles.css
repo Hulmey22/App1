@@ -1,5 +1,13 @@
 body {
+    background-color: #ffffff;
+}
 
-    background-color: aquamarine;
+img {
+    max-width: 100%;
+    height: auto;
+}
 
+.chasmLakeImg {
+    width: 100px;
+    height: 100px;
 }
