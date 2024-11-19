@@ -3,7 +3,12 @@ body {
     text-align: center;
 }
     
-    
+.nav {
+    float: left;
+    border-color: #aaaaaa;
+    border-width: 5px;
+
+}
 .gallery {
     display: flex;
     flex-direction: row;
