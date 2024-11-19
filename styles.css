@@ -3,9 +3,6 @@ body {
     text-align: center;
 }
 
-.navBar {
-    float: left;
-}
 
 .gallery {
     display: flex;
