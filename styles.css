@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+.navBar {
+    float: left;
+}
+
 .gallery {
     width: 15%;
 
